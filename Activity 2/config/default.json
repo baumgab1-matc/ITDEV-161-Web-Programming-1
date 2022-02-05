@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://admin:pass1234@cluster0.iyhg1.mongodb.net/sample_airbnb?retryWrites=true&w=majority"
+}
